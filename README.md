@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi👋, I'm Gabriel Victorino
+ Eu estou atualmente ingressando e conhecendo a área de programação, buscando entender como funciona este universo de tecnologias💻👨‍💻!
 
+Converse comigo em:
+
+- LinkedIn:
+    https://www.linkedin.com/in/gabriel-victorino-051356227
+<!--
+
+-->
 <!--
 **GabrielVictorino8266/GabrielVictorino8266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
