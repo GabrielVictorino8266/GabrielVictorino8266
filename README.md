@@ -1,4 +1,4 @@
-# Welcome, I'm Gabriel Victorino 👋:
+# Welcome, I'm Gabriel Victorino <img src="/assets/hi.gif" height="30px">:
 🔭 Atualmente estou buscando oportunidades e desenvolvendo projetos em BackEnd<br>
 
 🌱 Estou aprendendo python principalmente.<br>
