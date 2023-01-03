@@ -1,5 +1,5 @@
 # Welcome, I'm Gabriel Victorino <img src="https://github.com/GabrielVictorino8266/GabrielVictorino8266/blob/main/hi.gif" height="30px">:
-No momento busco aprender a programação voltada ao backend, procurando por novos desafios e soluções sem esquecer a criação de conteúdo voltada ao frontend. Meu foco é se especializar em conhecimento relacionados ao backend, mas ter a visão destes dois mundos -front e back - permite-nos tornarmos programadores melhores.
+No momento busco aprender a programação voltada ao backend, procurando por novos desafios e soluções sem esquecer a criação de conteúdo voltada ao frontend. Meu foco é se especializar em conhecimento relacionados ao backend, mas ter a visão destes dois mundos -front e back - permite a nós evoluir como programadores.
 
 💬 Confira meu perfil no LinkedIn e pergunte algo!
 
