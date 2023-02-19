@@ -4,7 +4,7 @@ No momento busco aprender a programação voltada ao backend, procurando por nov
 💬 Confira meu perfil no LinkedIn e pergunte algo!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel.victorino2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/victorino-gab) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel.victorino2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorino-gab) 
 
 # 💻 Tech Stack:
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielvictorino8266&bg_color=0d113f&color=ffffff&line=4cbac2&point=05ffb4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
